@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'setup Canon Printer'
+project = 'setup Kanon Printer'
 
 
 # The full version, including alpha/beta/rc tags
