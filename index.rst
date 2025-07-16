@@ -3,7 +3,7 @@ How do I setup Canon Printer without CD using ij.start.canon?
 ##################
 
 .. meta::
-   :msvalidate.01: FAC645F7A6F0C987881BDC96B99921F8
+   :msvalidate.01: 81B028225CE50EE5EDE47254C5F71B08
 
 .. image:: blank.png
       :width: 350px
